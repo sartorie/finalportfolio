@@ -306,6 +306,10 @@ footer nav li{
   grid-row: 4;
 }
 
+.workshopseries a{
+  color: #1e4883;
+}
+
 .teaching{
   grid-column: 1;
   grid-row: 4;
