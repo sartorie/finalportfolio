@@ -53,7 +53,7 @@ iframe{
   left: 0;
   padding: 6px;
   position: absolute;
-  top: -40px;
+  top: -50px;
   -webkit-transition: top 1s ease-out;
   transition: top 1s ease-out;
   z-index: 1;
@@ -130,7 +130,7 @@ nav li a.active {
 footer{
   font-size: .75em;
   background-color: #99A3A4;
-  color: white;
+  color: black;
   font-family: "Poppins";
   text-align: center;
   padding-top: .5em;
@@ -142,7 +142,7 @@ footer nav ul{
 }
 
 footer nav a{
-  color: white;
+  color: black;
   text-decoration: none;
   font-size: 1em;
 }
@@ -154,7 +154,7 @@ footer nav a:hover{
 }
 
 footer nav li{
-  color: white;
+  color: black;
   padding-right: 1em;
   font-family: "Poppins";
 }
