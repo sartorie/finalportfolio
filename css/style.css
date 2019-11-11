@@ -129,8 +129,8 @@ nav li a.active {
 
 footer{
   font-size: .75em;
-  background-color: #99A3A4;
-  color: black;
+  background-color: #1e4883;
+  color: white;
   font-family: "Poppins";
   text-align: center;
   padding-top: .5em;
@@ -142,7 +142,7 @@ footer nav ul{
 }
 
 footer nav a{
-  color: black;
+  color: white;
   text-decoration: none;
   font-size: 1em;
 }
@@ -154,7 +154,7 @@ footer nav a:hover{
 }
 
 footer nav li{
-  color: black;
+  color: white;
   padding-right: 1em;
   font-family: "Poppins";
 }
