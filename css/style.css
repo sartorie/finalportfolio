@@ -129,7 +129,7 @@ nav li a.active {
 
 footer{
   font-size: .75em;
-  background-color: #1e4883;
+  background-color: #000;
   color: white;
   font-family: "Poppins";
   text-align: center;
@@ -226,6 +226,10 @@ footer nav li{
   grid-column: 3;
   grid-row: 3;
   padding: 2.5%;
+}
+
+.whatisthecentre a{
+  color: #1e4883;
 }
 
 .researchyoutube{
